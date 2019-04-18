@@ -1,27 +1,43 @@
 # Jobs
 # VP of Global Communications
-- company: The Home Depot, Inc.
+- company: The Home Depot, Inc. - Atlanta, GA
   position: Staff Software Engineer
   duration: May, 2017 &mdash; Present
-  summary: Guided a redesigned and re-platformed implementation of the Tool Rental system, responsible for processing $1 billion in transactions annually	
+  summary:
     <ul class="resume-item-list">
-      <li>Produced well designed APIs usable by others in the organization</li>
+      <li>Fully rolled out redesign implementation of the Tool Rental system, pushing revenue from $600 million to $1 billion in transactions annually</li>
+      <li>Refactored system to have well designed APIs usable by others in the organization</li>
+      <li>Converted front-end from Angular to React in small pieces, making sure not to impact business function along the way</li>
       <li>Leader in driving digital transformation to agile software development across the enterprise</li>
       <li>Demonstrate solid continuous integration and delivery practices</li>
-      <li>Challenged team to constantly look retrospectively in our own processes and improve upon them</li>
     </ul>
-- position: Senior Software Engineer
+
+- company: Pivotal Labs - New York City, NY
+  position: Client Software Engineer
+  duration: Apr, 2015 &mdash; Dec, 2015
+  summary: 
+    <ul class="resume-item-list">
+      <li>Learned best-in-class practices for developing modern web applications, in an agile, XP, and customer driven design for producing a minimally viable product</li>
+      <li>Conducted discovery and framing exercises to hone in on the most valuable feature to complete</li>
+      <li>Learned how to include all stakeholders in product research and achieve consensus on the best minimal viable product </li>
+      <li>Built a twelve-factor web application that generated $4 million in it's first year of use</li>
+    </ul>
+
+- company: The Home Depot, Inc. - Atlanta, GA
+  position: Senior Software Engineer
   duration: Nov, 2015 &mdash; May, 2017
-  summary: TBD
+  summary:
+    <ul class="resume-item-list">
+      <li>Began to systematically rewrite the oldest parts of the Tool Rental system with a modern software stack</li>
+      <li>Using Test Driven Development concepts, automated our QA process, saving millions of dollars</li>
+      <li>Took part of a council to better align enterprise audit controls with continuous deployments</li>
+    </ul>
 
-- position: IT Developer I-II
-  duration: Aug, 2011 &mdash; Nov, 2015
-  summary: TBD
-
-- position: IT Intern
-  duration: May, 2011 &mdash; Aug, 2011
-  summary: TBD
-
-- position: Associate
-  duration: Dec, 2006 &mdash; May, 2011
-  summary: TBD
+- position: I.T. Software Developer Intern / I / II
+  duration: May, 2011 &mdash; Nov, 2015
+  summary:
+    <ul class="resume-item-list">
+      <li>Designed, developed and implemented a tool to look up rental agreements across the enterprise</li>
+      <li>Implemented a new tool for Paint Vendors to quickly upload paint formulas in real time, replacing antiquated batch process</li>
+      <li>Full intern project to gather requirements from business, code and release a tool to cleanup up old purchase orders, saving $100,000 annually</li>
+    </ul>
