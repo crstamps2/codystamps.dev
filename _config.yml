@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-# resume_avatar:                  "true"
+resume_avatar:                  "true"
 resume_name:                    "Cody Stamps"
 resume_title:                   "Full Stack Software Engineer"
 
