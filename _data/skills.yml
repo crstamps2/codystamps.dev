@@ -3,16 +3,21 @@
 - skill: Ruby on Rails
   # description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 - skill: React
-- skill: Java
-- skill: Spring
+- skill: Typescript
+- skill: Javascript
 - skill: Docker
+- skill: Kubernetes
+- skill: AWS
+- skill: Google Cloud Platform
+- skill: Service Oriented Architecture
 - skill: Cloud Foundry
-- skill: TDD
+- skill: Test Driven Development
 - skill: Concourse
 - skill: SQL
 - skill: HTML
 - skill: CSS
-- skill: Javascript
 - skill: Redis
 - skill: Bash
 - skill: Cloud Native Design
+- skill: Java
+- skill: Spring
