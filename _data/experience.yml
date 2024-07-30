@@ -1,8 +1,28 @@
 # Jobs
 # VP of Global Communications
+- company: Calendly. - Atlanta, GA
+  position: Staff Full Stack Engineer
+  duration: Aug, 2022 &mdash; Present
+  summary:
+    <ul class="resume-item-list">
+      <li>Key leader in breaking down the Calendly monolith into a service oriented architecture</li>
+      <li>Architected, refactored, and deployed the billing domain into it's own service with no downtime</li>
+      <li>Designed new public APIs for many Calendly resources</li>
+      <li>Implmented new in app experience to handle Meeting Intelligence features with backing services</li>
+    </ul>
+
+- position: Senior Full Stack Engineer
+  duration: Nov, 2019 &mdash; Aug, 2022
+  summary:
+    <ul class="resume-item-list">
+      <li>Spearheaded design and execution on the Workflows feature in Calendly</li>
+      <li>Upgraded Calendly's subscription layer to another platform</li>
+      <li>Contributed in moderninzing frontend technologies from coffeescript/marionette to javascript and React</li>
+    </ul>
+    
 - company: The Home Depot, Inc. - Atlanta, GA
   position: Staff Software Engineer
-  duration: May, 2017 &mdash; Present
+  duration: May, 2017 &mdash; Nov, 2019
   summary:
     <ul class="resume-item-list">
       <li>Fully rolled out redesign implementation of the Tool Rental system, pushing revenue from $600 million to $1 billion in transactions annually</li>
